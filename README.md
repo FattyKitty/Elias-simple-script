@@ -1,4 +1,4 @@
-#Summary information
+# Summary information
 
 Simple elias C++ written script. Takes an unsanitized binary string, then represents it in different formats
 
